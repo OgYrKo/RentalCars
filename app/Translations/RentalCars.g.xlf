@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="RentalCars">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1421975224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1421975224 - Field 173030910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Color - Field Color Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1421975224 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Color - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97628744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97628744 - Field 2196167343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark - Field Mark - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97628744 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3019781500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark and Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark and Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3019781500 - Field 4196884214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark and Model - Field Mark Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3019781500 - Field 1501050780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark and Model - Field Model Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3019781500 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark and Model - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3708991274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3708991274 - Field 1695122201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Model - Field Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3708991274 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Model - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 586330995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark and Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mark and Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 586330995 - Control 4196884214 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mark Key field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mark and Model - Control Mark Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 586330995 - Control 1501050780 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Model Key field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mark and Model - Control Model Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 586330995 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Primary Key field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mark and Model - Control Primary Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522411024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Models</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Models - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522411024 - Control 1695122201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Model field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Models - Control Model - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522411024 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Primary Key field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Models - Control Primary Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1382399433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Marks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Marks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1382399433 - Control 2196167343 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mark field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Marks - Control Mark - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1382399433 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Primary Key field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Marks - Control Primary Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Car</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Comment field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 1421975224 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Color field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control RC Color - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 4286045503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Conditioner field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control RC Conditioner - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 3019781500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mark and Model field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control RC Mark and Model - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 211395225 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mileage field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control RC Mileage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 2754331645 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number of seats field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control RC Number of seats - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1983030452 - Control 1601557667 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Car - Control RC Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 674613915 - Field 1421975224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Car - Field RC Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 674613915 - Field 4286045503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Conditioner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Car - Field RC Conditioner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 674613915 - Field 3019781500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Mark and Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Car - Field RC Mark and Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 674613915 - Field 211395225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Mileage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Car - Field RC Mileage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 674613915 - Field 2754331645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Number of seats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Car - Field RC Number of seats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 674613915 - Field 1601557667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Car - Field RC Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 510316075 - EnumValue 1719581791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CONVERTIBLE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RC Car Type - EnumValue CONVERTIBLE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 510316075 - EnumValue 1549202632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COUPE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RC Car Type - EnumValue COUPE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 510316075 - EnumValue 509580191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HATCHBACK</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RC Car Type - EnumValue HATCHBACK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 510316075 - EnumValue 1821688622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MINIVAN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RC Car Type - EnumValue MINIVAN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 510316075 - EnumValue 3596344889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PICKUP TRUCK</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RC Car Type - EnumValue PICKUP TRUCK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 510316075 - EnumValue 215269767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SEDAN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RC Car Type - EnumValue SEDAN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 510316075 - EnumValue 4012186027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SPORTS CAR</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RC Car Type - EnumValue SPORTS CAR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 510316075 - EnumValue 310879326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>STATION WAGON</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RC Car Type - EnumValue STATION WAGON - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
