@@ -22,6 +22,9 @@ table 50000 "RC Color"
         {
             Clustered = true;
         }
+        key(key1; "Color Name")
+        {
+        }
     }
 
 }

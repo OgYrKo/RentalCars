@@ -10,26 +10,29 @@ table 50003 "RC Mark and Model"
             Caption = 'Primary Key';
             DataClassification = CustomerContent;
         }
-        field(2; "Mark Key"; Code[20])
+        field(2; Mark; Text[20])
         {
-            Caption = 'Mark Key';
+            Caption = 'Mark';
             DataClassification = CustomerContent;
-            TableRelation = "RC Mark";
+            TableRelation = "RC Mark".Mark;
         }
-        field(3; "Model Key"; Code[20])
+        field(3; Model; Text[20])
         {
-            Caption = 'Model Key';
+            Caption = 'Model';
             DataClassification = CustomerContent;
-            TableRelation = "RC Model";
+            TableRelation = "RC Model".Model;
         }
     }
     keys
     {
-        key(PK; "Primary Key")
+        key(PK; "Primary Key", "Mark", "Model")
         {
             Clustered = true;
         }
-        key(key1; "Mark Key", "Model Key")
+        key(key1; "Primary Key")
+        {
+        }
+        key(key2; "Mark", "Model")
         {
         }
     }

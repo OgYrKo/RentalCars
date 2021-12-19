@@ -1,17 +1,15 @@
-page 50000 "Rental Car"
+page 50008 "RC Rental Car Card"
 {
 
-    ApplicationArea = All;
-    Caption = 'Rental Car';
-    PageType = List;
+    Caption = 'Rental Car Card';
+    PageType = Card;
     SourceTable = Item;
-    UsageCategory = Lists;
 
     layout
     {
         area(content)
         {
-            repeater(General)
+            group(General)
             {
                 field("No."; Rec."No.")
                 {
@@ -19,9 +17,14 @@ page 50000 "Rental Car"
                     ApplicationArea = All;
                 }
 
-                field("RC Mark and Model"; Rec."RC Mark and Model")
+                field("RC Mark"; Rec."RC Mark")
                 {
-                    ToolTip = 'Specifies the value of the Mark and Model field.';
+                    ToolTip = 'Specifies the value of the Mark field.';
+                    ApplicationArea = All;
+                }
+                field("RC Model"; Rec."RC Model")
+                {
+                    ToolTip = 'Specifies the value of the Model field.';
                     ApplicationArea = All;
                 }
                 field(Comment; Rec.Comment)

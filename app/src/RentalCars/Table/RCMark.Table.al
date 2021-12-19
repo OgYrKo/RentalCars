@@ -18,12 +18,9 @@ table 50001 "RC Mark"
     }
     keys
     {
-        key(PK; "Primary Key")
+        key(PK; "Primary Key", "Mark")
         {
             Clustered = true;
-        }
-        key(key1; Mark)
-        {
         }
     }
 

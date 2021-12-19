@@ -1,12 +1,13 @@
-page 50003 "Mark and Model"
+page 50002 "RC Models List"
 {
-    
+
     ApplicationArea = All;
-    Caption = 'Mark and Model';
+    Caption = 'Models';
     PageType = List;
-    SourceTable = "RC Mark and Model";
+    SourceTable = "RC Model";
     UsageCategory = Lists;
-    
+    CardPageId = "RC Model Card";
+
     layout
     {
         area(content)
@@ -18,18 +19,13 @@ page 50003 "Mark and Model"
                     ToolTip = 'Specifies the value of the Primary Key field.';
                     ApplicationArea = All;
                 }
-                field("Mark Key"; Rec."Mark Key")
+                field(Model; Rec.Model)
                 {
-                    ToolTip = 'Specifies the value of the Mark Key field.';
-                    ApplicationArea = All;
-                }
-                field("Model Key"; Rec."Model Key")
-                {
-                    ToolTip = 'Specifies the value of the Model Key field.';
+                    ToolTip = 'Specifies the value of the Model field.';
                     ApplicationArea = All;
                 }
             }
         }
     }
-    
+
 }

@@ -1,4 +1,4 @@
-page 50001 "RC Marks"
+page 50001 "RC Marks List"
 {
 
     ApplicationArea = All;
@@ -6,6 +6,7 @@ page 50001 "RC Marks"
     PageType = List;
     SourceTable = "RC Mark";
     UsageCategory = Lists;
+    CardPageId = "RC Mark Card";
 
     layout
     {
