@@ -8,6 +8,7 @@ page 50000 "RC Rental Cars List"
     UsageCategory = Lists;
     CardPageId = "RC Rental Car Card";
 
+    Editable = false;
     layout
     {
         area(content)
@@ -19,7 +20,11 @@ page 50000 "RC Rental Cars List"
                     ToolTip = 'Specifies the value of the No. field.';
                     ApplicationArea = All;
                 }
-
+                field("RC Type"; Rec."RC Type")
+                {
+                    ToolTip = 'Specifies the value of the Type field.';
+                    ApplicationArea = All;
+                }
                 field("RC Mark"; Rec."RC Mark")
                 {
                     ToolTip = 'Specifies the value of the Mark field.';
@@ -28,16 +33,6 @@ page 50000 "RC Rental Cars List"
                 field("RC Model"; Rec."RC Model")
                 {
                     ToolTip = 'Specifies the value of the Model field.';
-                    ApplicationArea = All;
-                }
-                field(Comment; Rec.Comment)
-                {
-                    ToolTip = 'Specifies the value of the Comment field.';
-                    ApplicationArea = All;
-                }
-                field(Description; Rec.Description)
-                {
-                    ToolTip = 'Specifies the value of the Description field.';
                     ApplicationArea = All;
                 }
                 field("RC Color"; Rec."RC Color")
@@ -59,11 +54,6 @@ page 50000 "RC Rental Cars List"
                 field("RC Number of seats"; Rec."RC Number of seats")
                 {
                     ToolTip = 'Specifies the value of the Number of seats field.';
-                    ApplicationArea = All;
-                }
-                field("RC Type"; Rec."RC Type")
-                {
-                    ToolTip = 'Specifies the value of the Type field.';
                     ApplicationArea = All;
                 }
             }

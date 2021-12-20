@@ -38,7 +38,7 @@ table 50005 "RC Rental Sales Line"
     }
     keys
     {
-        key(PK; "Line No.")
+        key(PK; "Rental Sales No.", "Line No.")
         {
             Clustered = true;
         }

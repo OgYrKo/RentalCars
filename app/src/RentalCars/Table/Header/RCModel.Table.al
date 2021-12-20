@@ -5,12 +5,7 @@ table 50002 "RC Model"
 
     fields
     {
-        field(1; "Primary Key"; Code[20])
-        {
-            Caption = 'Primary Key';
-            DataClassification = CustomerContent;
-        }
-        field(2; Model; Text[20])
+        field(1; Model; Text[20])
         {
             Caption = 'Model';
             DataClassification = CustomerContent;
@@ -18,7 +13,7 @@ table 50002 "RC Model"
     }
     keys
     {
-        key(PK; "Primary Key", "Model")
+        key(PK; "Model")
         {
             Clustered = true;
         }

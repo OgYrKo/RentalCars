@@ -21,16 +21,13 @@ page 50008 "RC Rental Car Card"
                 {
                     ToolTip = 'Specifies the value of the Mark field.';
                     ApplicationArea = All;
+                    NotBlank = true;
                 }
                 field("RC Model"; Rec."RC Model")
                 {
                     ToolTip = 'Specifies the value of the Model field.';
                     ApplicationArea = All;
-                }
-                field(Comment; Rec.Comment)
-                {
-                    ToolTip = 'Specifies the value of the Comment field.';
-                    ApplicationArea = All;
+                    NotBlank = true;
                 }
                 field(Description; Rec.Description)
                 {
@@ -41,6 +38,7 @@ page 50008 "RC Rental Car Card"
                 {
                     ToolTip = 'Specifies the value of the Color field.';
                     ApplicationArea = All;
+                    NotBlank = true;
                 }
                 field("RC Conditioner"; Rec."RC Conditioner")
                 {
@@ -52,16 +50,19 @@ page 50008 "RC Rental Car Card"
                 {
                     ToolTip = 'Specifies the value of the Mileage field.';
                     ApplicationArea = All;
+                    NotBlank = true;
                 }
                 field("RC Number of seats"; Rec."RC Number of seats")
                 {
                     ToolTip = 'Specifies the value of the Number of seats field.';
                     ApplicationArea = All;
+                    NotBlank = true;
                 }
                 field("RC Type"; Rec."RC Type")
                 {
                     ToolTip = 'Specifies the value of the Type field.';
                     ApplicationArea = All;
+                    NotBlank = true;
                 }
             }
         }

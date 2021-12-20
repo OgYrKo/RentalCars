@@ -5,6 +5,7 @@ page 50011 "RC Rental Sales Line"
     PageType = ListPart;
     SourceTable = "RC Rental Sales Line";
 
+    Editable = false;
     layout
     {
         area(content)

@@ -8,17 +8,13 @@ page 50002 "RC Models List"
     UsageCategory = Lists;
     CardPageId = "RC Model Card";
 
+    Editable = false;
     layout
     {
         area(content)
         {
             repeater(General)
             {
-                field("Primary Key"; Rec."Primary Key")
-                {
-                    ToolTip = 'Specifies the value of the Primary Key field.';
-                    ApplicationArea = All;
-                }
                 field(Model; Rec.Model)
                 {
                     ToolTip = 'Specifies the value of the Model field.';

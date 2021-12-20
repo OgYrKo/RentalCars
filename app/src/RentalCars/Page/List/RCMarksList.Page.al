@@ -8,17 +8,13 @@ page 50001 "RC Marks List"
     UsageCategory = Lists;
     CardPageId = "RC Mark Card";
 
+    Editable = false;
     layout
     {
         area(content)
         {
             repeater(General)
             {
-                field("Primary Key"; Rec."Primary Key")
-                {
-                    ToolTip = 'Specifies the value of the Primary Key field.';
-                    ApplicationArea = All;
-                }
                 field(Mark; Rec.Mark)
                 {
                     ToolTip = 'Specifies the value of the Mark field.';

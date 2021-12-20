@@ -5,11 +5,7 @@ table 50001 "RC Mark"
 
     fields
     {
-        field(1; "Primary Key"; Code[20])
-        {
-            Caption = 'Primary Key';
-            DataClassification = CustomerContent;
-        }
+
         field(2; Mark; Text[20])
         {
             Caption = 'Mark';
@@ -18,7 +14,7 @@ table 50001 "RC Mark"
     }
     keys
     {
-        key(PK; "Primary Key", "Mark")
+        key(PK; "Mark")
         {
             Clustered = true;
         }

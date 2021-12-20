@@ -1,7 +1,7 @@
-page 50010 "RC Rental Sales Card"
+page 50010 "RC Rental Sales Order Card"
 {
 
-    Caption = 'Rental Sales Card';
+    Caption = 'Rental Sales Order Card';
     PageType = Card;
     SourceTable = "RC Rental Sales Header";
 

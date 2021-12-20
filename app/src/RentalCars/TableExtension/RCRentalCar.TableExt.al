@@ -6,19 +6,19 @@ tableextension 50000 "RC Rental Car" extends Item
         {
             Caption = 'Mark';
             DataClassification = CustomerContent;
-            TableRelation = "RC Mark".Mark;
+            TableRelation = "RC Mark";
         }
         field(50005; "RC Model"; Text[20])
         {
             Caption = 'Model';
             DataClassification = CustomerContent;
-            TableRelation = "RC Model".Model;
+            TableRelation = "RC Model";
         }
         field(50010; "RC Color"; Text[20])
         {
             Caption = 'Color';
             DataClassification = CustomerContent;
-            TableRelation = "RC Color"."Color Name";
+            TableRelation = "RC Color";
         }
         field(50020; "RC Mileage"; Decimal)
         {

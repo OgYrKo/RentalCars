@@ -44,4 +44,5 @@ table 50004 "RC Rental Sales Header"
         }
     }
 
+
 }

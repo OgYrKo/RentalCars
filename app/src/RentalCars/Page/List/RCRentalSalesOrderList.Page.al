@@ -1,13 +1,14 @@
-page 50009 "RC Rental Sales List"
+page 50009 "RC Rental Sales Order List"
 {
 
     ApplicationArea = All;
-    Caption = 'Rental Sales List';
+    Caption = 'Rental Sales Order List';
     PageType = List;
     SourceTable = "RC Rental Sales Header";
     UsageCategory = Lists;
-    CardPageId = "RC Rental Sales Card";
+    CardPageId = "RC Rental Sales Order Card";
 
+    Editable = false;
     layout
     {
         area(content)

@@ -8,15 +8,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table RC Color - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1421975224 - Field 173030910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Color Name</source>
+        <trans-unit id="Table 1421975224 - Field 2827249175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table RC Color - Field Color Name - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1421975224 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Primary Key</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table RC Color - Field Primary Key - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Color - Field Color - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 97628744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Mark</source>
@@ -27,11 +22,6 @@
           <source>Mark</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark - Field Mark - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 97628744 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Primary Key</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark - Field Primary Key - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3019781500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Mark and Model</source>
@@ -48,11 +38,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark and Model - Field Model - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 3019781500 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Primary Key</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table RC Mark and Model - Field Primary Key - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Table 3708991274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Model</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -63,10 +48,155 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table RC Model - Field Model - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 3708991274 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Primary Key</source>
+        <trans-unit id="Table 2202109977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Rental Sales Header</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table RC Model - Field Primary Key - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2202109977 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Header - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2202109977 - Field 1094225539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Header - Field Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2202109977 - Field 419426744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Header - Field Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2202109977 - Field 3187808630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Header - Field Order date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2202109977 - Field 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Header - Field Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2202109977 - Field 208906622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Header - Field Salesperson No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3462505650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Rental Sales Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3462505650 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Line - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3462505650 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3462505650 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Line - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3462505650 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Line - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3462505650 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3462505650 - Field 1492921705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Sales No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Posted Rental Sales Line - Field Rental Sales No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2282470619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Colors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Colors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2282470619 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Colors - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2282470619 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Colors - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2282470619 - Field 2737680981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Colors - Field Prefer Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3722358107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Marks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Marks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3722358107 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Marks - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3722358107 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Marks - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3722358107 - Field 1218612909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Mark</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Marks - Field Prefer Mark - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 510258109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Models</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Models - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 510258109 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Models - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 510258109 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Models - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 510258109 - Field 3619129043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Models - Field Prefer Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 438687352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 438687352 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Types - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 438687352 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Types - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 438687352 - Field 3172078402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Prefer Types - Field Prefer Type - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3281717114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Rental Sales Header</source>
@@ -138,8 +268,28 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table RC Rental Sales Line - Field Rental Sales No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2468019434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Rental Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2468019434 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Rental Setup - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2468019434 - Field 337187809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RC Rental Setup - Field Rental No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1904717643 - Method 3817220028 - NamedType 3522032498" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order is posted as number %1 and moved to the %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = No, %2 = TableCaption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RC Post Rental Sales - Method PostRentalSales - NamedType OrderPostedMsg</note>
+        </trans-unit>
         <trans-unit id="Page 3929106092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Color</source>
+          <source>Color Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Color Card - Property Caption</note>
         </trans-unit>
@@ -148,10 +298,15 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Color Card - Control Color Name - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3929106092 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Primary Key field.</source>
+        <trans-unit id="Page 3040475818 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color List</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Color Card - Control Primary Key - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Color List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3040475818 - Control 173030910 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Color field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Color List - Control Color Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1554683784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Mark and Model</source>
@@ -168,11 +323,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Mark and Model Card - Control Model Key - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1554683784 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Primary Key field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Mark and Model Card - Control Primary Key - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="Page 2588905486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Mark and Model</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -188,11 +338,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Mark and Model List - Control Model - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2588905486 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Primary Key field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Mark and Model List - Control Primary Key - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="Page 3463751644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Mark</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -202,11 +347,6 @@
           <source>Specifies the value of the Mark field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Mark Card - Control Mark - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3463751644 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Primary Key field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Mark Card - Control Primary Key - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2541292223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Marks</source>
@@ -218,11 +358,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Marks List - Control Mark - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2541292223 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Primary Key field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Marks List - Control Primary Key - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="Page 1044765294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Model</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -232,11 +367,6 @@
           <source>Specifies the value of the Model field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Model Card - Control Model - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1044765294 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Primary Key field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Model Card - Control Primary Key - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3473180897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Models</source>
@@ -248,20 +378,170 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Models List - Control Model - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3473180897 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Primary Key field.</source>
+        <trans-unit id="Page 473470032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Rental Sales Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Models List - Control Primary Key - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 473470032 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Card - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 473470032 - Control 1094225539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Doc. No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Card - Control Doc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 473470032 - Control 419426744 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Information field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Card - Control Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 473470032 - Control 3187808630 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Card - Control Order date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 473470032 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Card - Control Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 473470032 - Control 208906622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Salesperson No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Card - Control Salesperson No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3462505650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Rental Sales Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3462505650 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Line - Control Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3462505650 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Line - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3462505650 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Line - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3462505650 - Control 3635338911 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Price field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Line - Control Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3462505650 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales Line - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1222198582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Rental Sales List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1222198582 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales List - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1222198582 - Control 1094225539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Doc. No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales List - Control Doc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1222198582 - Control 419426744 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the information field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales List - Control Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1222198582 - Control 3187808630 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales List - Control Order date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1222198582 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales List - Control Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1222198582 - Control 208906622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Salesperson No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Posted Rental Sales List - Control Salesperson No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2282470619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Colors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Colors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2282470619 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Colors - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2282470619 - Control 2737680981 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Prefer Color field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Colors - Control Prefer Color - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3722358107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Marks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Marks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3722358107 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Marks - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3722358107 - Control 1218612909 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Prefer Mark field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Marks - Control Prefer Mark - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 510258109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Models</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Models - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 510258109 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Models - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 510258109 - Control 3619129043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Prefer Model field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Models - Control Prefer Model - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 438687352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prefer Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 438687352 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Types - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 438687352 - Control 3172078402 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Prefer Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Prefer Types - Control Prefer Type - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3929345519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Rental Car Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Car Card - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3929345519 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Comment field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Car Card - Control Comment - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3929345519 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Description field.</source>
@@ -313,16 +593,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Cars List - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3963398980 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Comment field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Cars List - Control Comment - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3963398980 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Description field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Cars List - Control Description - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="Page 3963398980 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the No. field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -363,40 +633,95 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Cars List - Control RC Type - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2403568159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Rental Sales Card</source>
+        <trans-unit id="Page 1309409483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Customer Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Card - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2403568159 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Customer No. field.</source>
+        <trans-unit id="Page 1309409483 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Card - Control Customer No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Control Address - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2403568159 - Control 1094225539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Doc. No. field.</source>
+        <trans-unit id="Page 1309409483 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Email field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Card - Control Doc. No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Control E-Mail - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2403568159 - Control 419426744 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Information field.</source>
+        <trans-unit id="Page 1309409483 - Control 669815994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Inv. Discounts (LCY) field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Card - Control Information - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Control Inv. Discounts (LCY) - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2403568159 - Control 3187808630 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Order date field.</source>
+        <trans-unit id="Page 1309409483 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Card - Control Order date - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Control Name - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2403568159 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Order No. field.</source>
+        <trans-unit id="Page 1309409483 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Card - Control Order No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Control No. - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2403568159 - Control 208906622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Salesperson No. field.</source>
+        <trans-unit id="Page 1309409483 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone No. field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Card - Control Salesperson No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1309409483 - Control 165253589 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Prefer Conditioner field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Control RC Prefer Conditioner - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1309409483 - Control 3776803339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Prefer Mileage field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer Card - Control RC Prefer Mileage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Customer List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Email field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Control 669815994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Inv. Discounts (LCY) field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Control Inv. Discounts (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Control 165253589 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Prefer Conditioner field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Control RC Prefer Conditioner - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 38769273 - Control 3776803339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Prefer Mileage field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Customer List - Control RC Prefer Mileage - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 459750881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Rental Sales Line</source>
@@ -428,40 +753,75 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Line - Control Quantity - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2116980437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Rental Sales List</source>
+        <trans-unit id="Page 1811432613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Sales Order Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales List - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order Card - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2116980437 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 1811432613 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Customer No. field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales List - Control Customer No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order Card - Control Customer No. - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2116980437 - Control 1094225539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 1811432613 - Control 1094225539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Doc. No. field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales List - Control Doc. No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order Card - Control Doc. No. - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2116980437 - Control 419426744 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the information field.</source>
+        <trans-unit id="Page 1811432613 - Control 419426744 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Information field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales List - Control Information - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order Card - Control Information - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2116980437 - Control 3187808630 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 1811432613 - Control 3187808630 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Order date field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales List - Control Order date - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order Card - Control Order date - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2116980437 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 1811432613 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Order No. field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales List - Control Order No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order Card - Control Order No. - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2116980437 - Control 208906622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 1811432613 - Control 208906622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Salesperson No. field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales List - Control Salesperson No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order Card - Control Salesperson No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2927244975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Sales Order List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2927244975 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order List - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2927244975 - Control 1094225539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Doc. No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order List - Control Doc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2927244975 - Control 419426744 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the information field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order List - Control Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2927244975 - Control 3187808630 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order List - Control Order date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2927244975 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order List - Control Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2927244975 - Control 208906622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Salesperson No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC Rental Sales Order List - Control Salesperson No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="TableExtension 674613915 - Field 1421975224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
           <source>Color</source>
@@ -497,6 +857,16 @@
           <source>Type</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Car - Field RC Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 834810991 - Field 165253589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Prefer Conditioner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Customer - Field RC Prefer Conditioner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 834810991 - Field 3776803339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Prefer Mileage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RC Rental Customer - Field RC Prefer Mileage - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2284964808 - Field 2051855030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3399585325">
           <source>Completed Orders Count</source>
